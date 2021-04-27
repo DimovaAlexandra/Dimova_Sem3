@@ -1,0 +1,12 @@
+﻿"Dimova_lr1.exe" (Win32). Загружено "C:\Users\Александра\source\repos\Dimova_lr1\Debug\Dimova_lr1.exe". Символы загружены.
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Dimova_lr1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x30f4 завершился с кодом 0 (0x0).
+Поток 0x2cbc завершился с кодом -1073741510 (0xc000013a).
+Поток 0x23a4 завершился с кодом -1073741749 (0xc000004b).
+Поток 0x560 завершился с кодом -1073741510 (0xc000013a).
+Программа "[8724] Dimova_lr1.exe" завершилась с кодом -1073741510 (0xc000013a).
